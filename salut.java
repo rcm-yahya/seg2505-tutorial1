@@ -1,0 +1,7 @@
+/**
+ * salut
+ */
+public class salut {
+
+    
+}
